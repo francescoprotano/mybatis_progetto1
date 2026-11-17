@@ -2,6 +2,9 @@ ISTRUZIONI:
 
 	- usare il file install.sql per generare il database
 	
+	- modificare il file mybatis-config.xml di modo che abbia la credenziali giuste 
+	
+	
 PROBLEMI DA RISOLVERE:
 
 	- il progetto non compila. Perchè?
